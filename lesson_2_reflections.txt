@@ -1,0 +1,4 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+Você também pode querer executar git status depois de criar o arquivo. Você deve ver que agora os dois arquivos estão listados como não rastreados.
+
