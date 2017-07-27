@@ -2,3 +2,9 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 Você também pode querer executar git status depois de criar o arquivo. Você deve ver que agora os dois arquivos estão listados como não rastreados.
 
+     É criado um diretório .git onde serão armazenados os históricos dos commits.
+	 
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+	A área de preparação é onde são colocados os arquivos que farão parte de um commit e o diretório de trabalho é onde estão todos os arquivos do repositório.
+	
