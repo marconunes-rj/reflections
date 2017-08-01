@@ -1,1 +1,8 @@
 O que acontece quando adicionamos um arquivo direto no Github?
+
+
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+
+   Quando tiver um time trabalhando no projeto. Quando necessitar acessar o projeto de vários computadores diferentes.
+  
+  
